@@ -1,5 +1,7 @@
 # Hi-Tech
 
+https://calm-island-22808.herokuapp.com/
+
 This application is a fictional tech blog where users are able to publish their blog posts and comment on other developers’ posts as well. This app utilizes the MVC paradigm in its architectural structure, Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
 
 
